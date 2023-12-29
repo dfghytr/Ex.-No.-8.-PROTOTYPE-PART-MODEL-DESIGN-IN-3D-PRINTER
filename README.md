@@ -45,7 +45,7 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:![image](https://github.com/22008837/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120194155/e6300b6b-d5cf-45fc-bc69-50d44c63d0ec)
+## Output:![image](https://github.com/22002102/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119091638/8d05c677-8698-4006-b11a-d79dff0041e6)
 
 
 ### Name:Abdul kalaam k m
